@@ -1,4 +1,4 @@
-bin: hello.c
+bin: Ativ_Zumbi.c
 	gcc $< -o $@
 .PHONY: run clean
 
